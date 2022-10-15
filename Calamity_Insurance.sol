@@ -3,7 +3,7 @@
 
 pragma solidity >=0.7.0 <0.9.0;
 
-//This is the oracle code you gave, my code strts from line 86
+//This is the oracle contract
 contract DisasterData {
 
     address public admin;
@@ -83,7 +83,7 @@ interface DisasterInterface  {
 
 
 
-//Explaination of formuala is given on https://docs.google.com/document/d/18j_-KnIRHbbwaVRRujiofTS1sMb4YXmSYL76yWiKvb8/edit?usp=drivesdk by me
+
 contract Insurance{
         address public manager;
         constructor(){
