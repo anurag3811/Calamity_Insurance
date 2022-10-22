@@ -218,3 +218,4 @@ contract Insurance{
 
 
 // etherscan rinkeby : https://rinkeby.etherscan.io/address/0x4eb1f73FeBC3A868999ec8D34303C85D35C81525
+// etherscan goerli  : https://goerli.etherscan.io/address/0xA7D88Bc10aD5A2ac7Ec2Db87Fea5960E775071a5
